@@ -1,0 +1,1 @@
+لا يحتوي هذا الأرشيف على gradle-wrapper.jar. يستخدم Workflow أمر gradle المثبت على خادم GitHub. يمكن إضافة Gradle Wrapper لاحقًا عند إعداد إصدار المشروع النهائي.
